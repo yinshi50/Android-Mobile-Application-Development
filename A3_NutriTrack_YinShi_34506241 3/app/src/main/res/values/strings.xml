@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NutriTrack_YinShi_34506241</string>
+    <string name="title_activity_login_screen">LoginScreen</string>
+    <string name="title_activity_login_processer">LoginProcesser</string>
+    <string name="title_activity_food_questionnaire">FoodQuestionnaire</string>
+    <string name="title_activity_score_home_page">ScoreHomePage</string>
+    <string name="title_activity_main_app_screen">MainAppScreen</string>
+    <string name="user_csv">userdata.csv</string>
+    <string name="prompt_placeholder_tips">Generate a short encouraging message to help someone improve their fruit intake.(different every time, only one option needed, less than 50 words)</string>
+    <string name="prompt_placeholder_feedback">Generate a short feedback message to help someone improve their fruit intake.(different every time, only one option needed, less than 50 words)</string>
+    <string name="prompt_placeholder_pattern">Generate a JSON String (generate a JSON string with no line breaks or extra spaces, i.e., minified JSON.) represent a list of 3 patterns of the user data, each with fields of "pattern title" and "pattern description", max 50 words for each pattern, here is the user data: </string>
+</resources>
